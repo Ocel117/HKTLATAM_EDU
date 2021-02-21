@@ -1,3 +1,4 @@
 # HKTLATAM_EDU
-Proyecto de prueba Educativo para Hackaton (Hack LATAM) 
+Proyecto de prueba Educativo para aprendizaje de Git
+
 # Pequeñines Trabajando
