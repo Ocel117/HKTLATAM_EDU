@@ -1,6 +1,6 @@
 
 import random
-
+import requests
 x='awa'
 y=["mucha", "poca", "tu"]
 you = random.randrange (len(y))
